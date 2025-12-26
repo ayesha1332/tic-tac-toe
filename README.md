@@ -1,4 +1,4 @@
-# ❌⭕ Tic Tac Toe Game (HTML, CSS, JavaScript)
+# ⭕ Tic Tac Toe Game (HTML, CSS, JavaScript)
 
 A simple **Tic Tac Toe game** created using **HTML, CSS, and JavaScript**.  
 This project is beginner-friendly and demonstrates basic game logic, DOM manipulation, and user interaction.
