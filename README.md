@@ -10,7 +10,7 @@ This project is beginner-friendly and demonstrates basic game logic, DOM manipul
 Tic Tac Toe is a classic two-player game played on a 3×3 grid.  
 Players take turns marking **X** or **O**.  
 The first player to align three marks horizontally, vertically, or diagonally wins.
-![Alt text](images/picture.png)
+![Alt text](https://github.com/ayesha1332/tic-tac-toe/blob/main/Tic%20Tac%20Toe%20Game.jpeg?raw=true)
 
 
 ---
